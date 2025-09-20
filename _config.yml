@@ -159,6 +159,7 @@ analytics:
 
 # Reading Files
 include:
+  - assets/css/custom.scss
   - .htaccess
   - _pages
   - files
